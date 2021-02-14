@@ -1,0 +1,13 @@
+Em (a) é esperado o resultado 20
+Em (b) é esperado o resultado 29.0
+Em (c) é esperado o resultado P
+Em (d) é esperado o resultado e
+Em (e) é esperado o resultado P
+Em (f) é esperado o resultado e
+Em (g) é esperado o resultado t
+Em (h) é esperado o resultado 31
+Em (i) é esperado o resultado 45
+Em (j) é esperado o resultado 27
+Em (l) é esperado o resultado 31
+Em (m) é esperado o resultado 45
+Em (m) é esperado o resultado 45

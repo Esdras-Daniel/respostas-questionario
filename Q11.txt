@@ -1,0 +1,2 @@
+Os seguintes comandos são válidos: a, d, e, h.
+Os seguintes comandos não são válidos: b, c, f, g.

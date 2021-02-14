@@ -1,0 +1,3 @@
+Após realizar a pesquisa solicitada pela questão, decidi usar a biblioteca time.h, biblioteca esta que é nativa da própria linguagem C.
+Usando as funções clock() e difftime(), além de usar a mesma quantidade de elementos em lista (10, para teste) e mesma ordem nos dois programas, foi possível observar que o programa que utiliza minha própria função de ordenação (Q15) obteve um tempo de execução menor.
+A principio questionei esse resultado. Mas após pensar um pouco vi que tal resultado é aceitável, já que, a função qsort() funciona de maneira mais geral necessitando de mais variáveis, processamento e etc que minha implementação, que funciona de maneira mais simples e apenas com vetores de inteiros.

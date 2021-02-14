@@ -1,0 +1,4 @@
+Se x for declarado como char, os valores de x+1, x+2, x+3: 4093, 4094, 4095.
+Se x for declarado como int, os valores de x+1, x+2, x+3: 4094, 4096, 4098.
+Se x for declarado como float, os valores de x+1, x+2, x+3: 4096, 4100, 4104.
+Se x for declarado como double, os valores de x+1, x+2, x+3: 4100, 4108, 4116.

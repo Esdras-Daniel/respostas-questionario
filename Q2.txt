@@ -1,0 +1,4 @@
+p == &i --> TRUE
+*p - *q; --> -2
+**&p --> 3
+3 - *p/(*q) + 7 --> 10, devido a divisão de dois inteiros ser um inteiro

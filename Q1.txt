@@ -1,0 +1,3 @@
+Com o aprendizado do uso de ponteiros é possível criar programas com funções mais eficientes além de
+tornar possível a otimização do uso da memória da aplicação. Essas capacidade são muito importantes
+uma vez que, a programação já é parte integral da vida profissional de um engenheiro.

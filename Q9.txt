@@ -1,0 +1,2 @@
+O primeiro programa imprime os valores dos elementos da array: 4, 9, 13.
+O segundo programa imprime os endereços dos elementos da array.   

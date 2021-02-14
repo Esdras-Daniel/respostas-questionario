@@ -1,0 +1,7 @@
+O programa irá imprimir em uma linha os valores: (usando o primeiro indice para exemplo)
+i = 0
+vet[0] = 1.1
+*(f + 0) = 1.1
+&vet[0] = endereço do vet[0]
+(f + 0) = endereço do vet[0]
+Depois irá para a próxima linha e imprime as informações do próximo índice.

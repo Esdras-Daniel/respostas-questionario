@@ -1,0 +1,1 @@
+A expressão que referencia o valor do terceiro elemento de pulo[] é *(pulo + 2);

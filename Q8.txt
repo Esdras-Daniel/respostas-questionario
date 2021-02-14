@@ -1,0 +1,6 @@
+Considerando a declaração:
+
+int mat[4], *p, x;
+
+A expressão p = mat + 1 é válida e armazena no poteiro p o endereço do segundo elemento de mat.
+As demais expressões são inválidas pq elas tem um caracter estranho.
